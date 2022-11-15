@@ -1,0 +1,52 @@
+body{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.shift{
+    margin: 10% 0% 0% 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.one{
+    margin: 0% 0% 0% 2%;
+}
+
+#text{
+    box-shadow: 0px 0px 5px rgb(184, 183, 183);
+    border: none;
+    margin: 2% 20% 0% 30%;
+}
+
+h3{
+    margin: 5% 20% 0% 30%;
+}
+.first{
+    font-weight: bold;
+    color: white;
+    background: peru;
+    width: 300px;
+    height: 30px;
+    border: peru;
+    border-radius: 5px;
+    margin: 0% 20% 0% 30%;
+}
+.thick{
+    margin: 5% 0% 0% 30%;
+}
+.two{
+    font-weight: bold;
+    text-align: center;
+    color: rgb(5, 5, 5);
+    background: rgb(250, 249, 249);
+    width: 300px;
+    height: 30px;
+    border-color: rgb(245, 195, 146);
+    border-radius: 5px;
+    margin: 2% 20% 0% 30%;
+}
+h5{
+    margin: 2% 20% 0% 34%;
+}
+
+a{
+    text-decoration: none;
+    color: skyblue;
+}

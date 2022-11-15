@@ -1,0 +1,25 @@
+div {
+    background: green;
+    width: 50vw;
+    height: 50vh;
+    animation-name: move;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+  }
+@keyframes move{
+    0%{
+        background: linear-gradient( to bottom right,rgb(28, 5, 231),rgb(53, 40, 238));
+    }
+    25%{
+        background: linear-gradient(to top left,rgb(113, 99, 245),rgb(120, 162, 252));
+    }
+    50%{
+        background: linear-gradient(to bottom right, rgb(144, 185, 238),rgb(142, 183, 245));
+    }
+    75%{
+        background: linear-gradient(to top left,rgb(22, 172, 231),rgb(18, 161, 228));
+    }
+    100%{
+        background: linear-gradient(to bottom right, rgb(19, 225, 240), rgb(31, 226, 210));
+    }
+}
